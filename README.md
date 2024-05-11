@@ -4,3 +4,4 @@ Just some intresting tasks with my solution
 - 🔺Triangle - you enter number of triangle rows and I just draw this triangle, so simple
 - 🌴Islands - popular task among HRs in microsoft, you get number of rows and columns in the 'sea pole',and then you get sea picture, where sea is marked with zeroes and islands are marked with ones. Also simple task, that was solved with recursion
 - 🥷Hack - programm that runs around your pc files and copies everything, that looks like password
+- 🪙Coins(monetki.py) - it's simple mathematical task from codeforces(link: https://codeforces.com/problemset/problem/1348/A)
